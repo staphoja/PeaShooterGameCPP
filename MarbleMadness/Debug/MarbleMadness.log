@@ -1,0 +1,3 @@
+﻿  Actor.cpp
+C:\Users\jackn\Documents\UCLA\COMSCI 32\Homework\MarbleMadness\MarbleMadness\Actor.cpp(182,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  MarbleMadness.vcxproj -> C:\Users\jackn\Documents\UCLA\COMSCI 32\Homework\MarbleMadness\Debug\MarbleMadness.exe
